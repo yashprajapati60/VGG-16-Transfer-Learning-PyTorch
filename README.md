@@ -121,8 +121,8 @@ VGG16-Transfer-Learning/
 
 ## ▶ 7. How to Run the Project
 7.1 Clone the Repository
-git clone https://github.com/your-username/VGG16-Transfer-Learning.git
-cd VGG16-Transfer-Learning
+git clone https://github.com/yashprajapati60/VGG-16-Transfer-Learning-PyTorch.git
+cd VGG16-Transfer-Learning-PyTorch
 
 7.2 Install Dependencies
 pip install torch torchvision numpy matplotlib
